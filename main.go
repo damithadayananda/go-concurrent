@@ -22,7 +22,6 @@ func main()  {
 }
 
 type concurrentTest struct {
-//only in development branch
 //hkhkhkhkhk
 }
 
