@@ -19,12 +19,11 @@ func main()  {
 		fmt.Println(<-c)
 	}
 	close(c)
-
-
 }
 
 type concurrentTest struct {
 //only in development branch
+//hkhkhkhkhk
 }
 
 type concurrent interface {
